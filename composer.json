@@ -1,0 +1,19 @@
+{
+  "name": "civicrm/civicrm-l10n",
+  "description": "Bundle with civicrm translation files, only nl_NL for now.",
+  "type": "drupal-library",
+  "license": "AGPL-3.0",
+  "authors": [
+    {
+      "name": "Wannes De Roy",
+      "role": "Full-stack developer"
+    }
+  ],
+  "require": {
+    "composer/installers": "^1.0",
+    "civicrm/civicrm-core" : ">=5.4.0"
+  },
+  "extra": {
+    "installer-name": "civicrm-l10n"
+  }
+}
