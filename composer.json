@@ -1,5 +1,5 @@
 {
-  "name": "civicrm/civicrm-l10n",
+  "name": "calibrate/civicrm-l10n",
   "description": "Bundle with civicrm translation files, only nl_NL for now.",
   "type": "drupal-library",
   "license": "AGPL-3.0",
